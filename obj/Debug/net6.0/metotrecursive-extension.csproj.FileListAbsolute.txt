@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\bin\Debug\net6.0\metotrecursive-extension.exe
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\bin\Debug\net6.0\metotrecursive-extension.deps.json
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\bin\Debug\net6.0\metotrecursive-extension.runtimeconfig.json
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\bin\Debug\net6.0\metotrecursive-extension.dll
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\bin\Debug\net6.0\ref\metotrecursive-extension.dll
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\bin\Debug\net6.0\metotrecursive-extension.pdb
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\obj\Debug\net6.0\metotrecursive-extension.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\obj\Debug\net6.0\metotrecursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\obj\Debug\net6.0\metotrecursive-extension.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\obj\Debug\net6.0\metotrecursive-extension.AssemblyInfo.cs
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\obj\Debug\net6.0\metotrecursive-extension.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\obj\Debug\net6.0\metotrecursive-extension.dll
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\obj\Debug\net6.0\ref\metotrecursive-extension.dll
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\obj\Debug\net6.0\metotrecursive-extension.pdb
+C:\Users\user\Desktop\pratikler\metot-overloading\metotrecursive-extension\obj\Debug\net6.0\metotrecursive-extension.genruntimeconfig.cache
